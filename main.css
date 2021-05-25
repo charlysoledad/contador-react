@@ -1,0 +1,31 @@
+html, body {
+    font-size: 16px;
+    text-align: center;
+    background-color: #343434;
+    color: snow;
+}
+
+.menor {
+    color: #ce2222;
+}
+
+.mayor {
+    color: #22ce3f;
+}
+
+button {
+    width: 120px;
+    height: 30px;
+    font-size: 0.8rem;
+    font-weight: 400;
+    background-color: #1197c7;
+    border: 1px solid #075d7c;
+    border-radius: 0.25rem;
+    color: #fff;
+    margin: 0 1rem;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #107da5;
+
+}
